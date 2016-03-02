@@ -1,3 +1,24 @@
+
+                                    MIME Diversity in the Text Retrieval Conference (TREC)
+
+Special Thanks to
+1. Dr. Chris Mattmann 
+    Principal Data Scientist
+    JPL NASA
+    Pasadena, California USA
+    http://sunset.usc.edu/~mattmann/
+
+2. Rashmi Nalwad and Shashank Vernekar
+    Graduate Students 
+    Department of Computer Science
+    Viterbi School of Engineering
+    Univerisity of Southern California 
+    Los Angeles CA USA
+    
+
+#####################################################################################################################################
+Following is the Readme description of Apache TIKA 
+######################################################################################################################################
 =================================================
 Welcome to Apache Tika  <http://tika.apache.org/>
 =================================================
