@@ -1,0 +1,24 @@
+Required Libraries/Softwares:
+1. Tika 1.12
+2. Apache Commons Math Library (https://commons.apache.org/proper/commons-math/)
+3. Eclipse Luna and above versions with Java JDK 1.8 SE
+4. The data is cleaned and all the files are brought to the parent directory using the DOS scripts. They are given in the file scripts.txt
+
+Steps:
+1. The source code is divided in to three separate packages
+    org.csci599.trec ---- (Byte Frequency Analysis)
+    org.csci599.BFC outputBFC ---- (Byte Frequency Cross Correlation)
+    org.csci599.trec.FHT ---- FHT (File Header and Trailer)
+
+2. Each package has corresponding main program that executes the respective Algorithm and populates results in respective output folders.
+    Main Program for BFA --- EntryPoint.java
+    Main Program for BFC --- EntryPointBFC.java
+    Main Program for FHT --- EntryPointFHT.java
+
+3. Output folders to be created are:
+    a) output --------------- For BFA
+    b) outputBFC ------------ For BFC
+    c) output_Header_FHT ---- For FHT Header
+    d) output_Trailer_FHT --- For FHT Trailer.
+	e) AOS ------------------ To put all Application/Octet files.
+		

@@ -1,0 +1,2 @@
+for /r %i in (*) do @move "%i" .
+for /d %i in (*) do @rmdir /s /q "%i"
